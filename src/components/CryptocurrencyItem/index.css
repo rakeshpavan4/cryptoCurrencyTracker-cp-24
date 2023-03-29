@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.logo-image {
+  height: 30px;
+  width: 30px;
+  border-radius: 100px;
+  margin-right: 30px;
+}
+.list-header {
+  padding-left: 0px;
+}
+.logo-details {
+  display: flex;
+  align-items: center;
+}
+.list-headers {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 40px;
+  padding-left: 40px;
+}
+.currencyname {
+  color: antiquewhite;
+}
+
+.euro-usd-details {
+  display: flex;
+  align-items: center;
+}
+.usd-details {
+  color: antiquewhite;
+  margin-left: 0px;
+}
+.euro-details {
+  color: antiquewhite;
+  margin-left: 30px;
+}
